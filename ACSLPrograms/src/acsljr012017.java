@@ -113,7 +113,7 @@ public class acsljr012017 {
 			winner = "dealer";
 			return;
 		}
-		int card = hand[0];
+		// int card = hand[0];
 		if(card ==9) {
 			//pass
 		}else if (card ==4) {
